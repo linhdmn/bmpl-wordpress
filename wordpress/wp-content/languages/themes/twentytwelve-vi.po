@@ -1,0 +1,326 @@
+# Translation of Themes - Twenty Twelve in Vietnamese
+# This file is distributed under the same license as the Themes - Twenty Twelve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-27 01:47:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Twenty Twelve\n"
+
+#. Description of the plugin/theme
+msgid "The 2012 theme for WordPress is a fully responsive theme that looks great on any device. Features include a front page template with its own widgets, an optional display font, styling for post formats on both index and single views, and an optional no-sidebar page template. Make it yours with a custom menu, header image, and background."
+msgstr "Giao diện 2012 cho WordPress là một giao diện hoàn toàn tiện lợi, có giao diện tuyệt vời trên mọi thiết bị. Những đặc điểm của giao diện này bao gồm một mẫu trang chủ với widget riêng, một phông chữ hiển thị tự chọn, định dạng cho hình thức bài viết trên cả hiển thị đơn và hiển thị chỉ số, và một trang mẫu không có thanh bên tự chọn. Hãy biến nó thành của riêng bạn với một trình đơn tùy biến, hình ảnh tiêu đề, và nền."
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Twelve"
+msgstr "2012"
+
+#. Template Name of the plugin/theme
+msgid "Full-width Page Template, No Sidebar"
+msgstr "Mẫu trang với chiều rộng tối đa, không có Sidebar"
+
+#. Template Name of the plugin/theme
+msgid "Front Page Template"
+msgstr "Mẫu trang chủ"
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr "Lưu trữ cho từ khóa: %s"
+
+#: single.php:22
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: single.php:21
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: search.php:38
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Rất tiếc, không có kết quả nào khớp với các tiêu chí của bạn. Xin vui lòng thử lại với những từ khóa khác."
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: index.php:42
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng xuất bản bài viết đầu tiên chưa? <a href=\"%s\">Get started here</a>."
+
+#: index.php:38
+msgid "No posts to display"
+msgstr "Không có bài viết nào để hiển thị"
+
+#: image.php:42
+msgid "Next &rarr;"
+msgstr "Tiếp theo &rarr;"
+
+#: image.php:41
+msgid "&larr; Previous"
+msgstr "&larr; Trước"
+
+#: image.php:26
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+
+#: header.php:44
+msgid "Skip to content"
+msgstr "Chuyển đến nội dung"
+
+#: header.php:43
+msgid "Menu"
+msgstr "Trình đơn"
+
+#: functions.php:419
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Mục này được đăng tải trên %3$s<span class=\"by-author\"> by %4$s</span>."
+
+#: functions.php:417
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Mục này được đăng tải tại %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+
+#. Translators: 1 is category, 2 is tag, 3 is the date and 4 is the author's
+#. name.
+#: functions.php:415
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr "Mục này được đăng tải tại %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+
+#: functions.php:409
+msgid "View all posts by %s"
+msgstr "Xem tất cả bài viết bằng %s"
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:395 functions.php:398
+msgid ", "
+msgstr ", "
+
+#: functions.php:374
+msgid "Reply"
+msgstr "Trả lời"
+
+#: functions.php:365
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang đợi phản hồi."
+
+#. translators: 1: date, 2: time
+#: functions.php:359
+msgid "%1$s at %2$s"
+msgstr "%1$s lúc %2$s"
+
+#: functions.php:353
+msgid "Post author"
+msgstr "Tác giả bài viết"
+
+#: functions.php:338
+msgid "(Edit)"
+msgstr "( Chỉnh sửa)"
+
+#: functions.php:338
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:313
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Bài viết mới hơn <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:312
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Bài viết cũ hơn"
+
+#: functions.php:311 single.php:20
+msgid "Post navigation"
+msgstr "Điều hướng bài viết"
+
+#: functions.php:289
+msgid "Second Front Page Widget Area"
+msgstr "Vùng widget trang chủ thứ 2"
+
+#: functions.php:281 functions.php:291
+msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
+msgstr "Xuất hiện khi sử dụng mẫu trang chủ tự chọn với một trang được thiết lập như trang số liệu chủ."
+
+#: functions.php:279
+msgid "First Front Page Widget Area"
+msgstr "Vùng Widget trang chủ đầu tiên"
+
+#: functions.php:271
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr "Xuất hiện trên các bài viết và các trang trừ mẫu trang chủ tự chọn với widget riêng."
+
+#: functions.php:269
+msgid "Main Sidebar"
+msgstr "Thanh bên chính"
+
+#: functions.php:240
+msgid "Page %s"
+msgstr "Trang %s"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
+#. translate into your own language.
+#: functions.php:110
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "không có bảng mã"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:104
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: functions.php:64
+msgid "Primary Menu"
+msgstr "Trình đơn cơ sở"
+
+#: footer.php:16
+msgid "Proudly powered by %s"
+msgstr "Tự hào được phát triển từ %s"
+
+#: footer.php:16
+msgid "Semantic Personal Publishing Platform"
+msgstr "Nền tảng chia sẻ bài viết cá nhân"
+
+#: content.php:66
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Xem tất cả các bài viết của %s <span class=\"meta-nav\">&rarr</span>"
+
+#: content.php:16
+msgid "Featured post"
+msgstr "Bài viết nổi bật"
+
+#: content-page.php:21 content.php:45 image.php:102
+msgid "Pages:"
+msgstr "Trang:"
+
+#: content-none.php:17 index.php:53
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr "Rất tiếc, không tìm thấy kết quả nào. Có lẽ tìm kiếm sẽ mang lại một bài viết có liên quan."
+
+#: content-none.php:13 index.php:49 search.php:34
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: content-link.php:12
+msgid "Link"
+msgstr "Liên kết"
+
+#: content-aside.php:26 content-image.php:26 content-link.php:24
+#: content-page.php:24 content-quote.php:23 content-status.php:40
+#: content.php:51 functions.php:370 image.php:37
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:37 content.php:33
+msgid "% Replies"
+msgstr "% phản hồi"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:37 content.php:33
+msgid "1 Reply"
+msgstr "1 phản hồi"
+
+#: content-aside.php:23 content-image.php:23 content-link.php:21
+#: content-quote.php:20 content-status.php:37 content.php:33
+msgid "Leave a reply"
+msgstr "Trả lời"
+
+#: content-aside.php:20 content-link.php:18 content-quote.php:17
+#: content-status.php:15
+msgid "Permalink to %s"
+msgstr "Liên kết cứng tới %s"
+
+#: content-aside.php:15 content-image.php:13 content-link.php:14
+#: content-quote.php:13 content-status.php:31 content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Không cho phép ghi chú."
+
+#: comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr "Các bình luận mới hơn&rarr;"
+
+#: comments.php:43
+msgid "&larr; Older Comments"
+msgstr "&larr; Những bình luận cũ hơn"
+
+#: comments.php:42
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:31
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s bình luận trong &ldquo;%2$s&rdquo;"
+
+#: category.php:21
+msgid "Category Archives: %s"
+msgstr "Chuyên mục lưu trữ: %s"
+
+#: author.php:63 content.php:62
+msgid "About %s"
+msgstr "Về %s"
+
+#: author.php:32
+msgid "Author Archives: %s"
+msgstr "Lưu trữ của tác giả: %s"
+
+#: archive.php:35
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:33
+msgid "Yearly Archives: %s"
+msgstr "Lưu trữ thường niên: %s"
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:31
+msgid "Monthly Archives: %s"
+msgstr "Lưu trữ hàng tháng: %s"
+
+#: archive.php:29
+msgid "Daily Archives: %s"
+msgstr "Lưu trữ hàng ngày: %s"
+
+#: 404.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có lẽ chũng tôi không thể thấy những gì bạn đang tìm kiếm. Bạn có thể dùng tìm kiếm."
+
+#: 404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Ngại quá nhỉ?"
+
+#. #-#-#-#-#  twentytwelve.pot (Twenty Twelve 2.4)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:16
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "Nhóm quản trị WordPress"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentytwelve/"
+msgstr "https://vi.wordpress.org/themes/twentytwelve/"
